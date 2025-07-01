@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Punto de Venta (POS)",
+  "description": "Una aplicación web de sistema de punto de venta completa para gestionar ventas, inventario, clientes y más. Esta es una versión inicial con funcionalidades básicas de autenticación, listado de productos y un módulo de ventas simplificado.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
